@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  font-weight: 100;
+  padding: 10%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  padding: 10px;
+  font-weight: 500;
+}
+
+input {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 40px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  width: 70%;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #d9d9d9;
+  border: none;
+}
